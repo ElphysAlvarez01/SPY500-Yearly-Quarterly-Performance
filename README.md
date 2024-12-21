@@ -3,6 +3,7 @@
 This project analyzes the yearly and quarterly performance of the SPY 500, providing insights into price trends, volatility, and key market behaviors. By leveraging visualizations and statistical analysis, it explores the relationship between metrics such as annual standard deviation, performance, and trading volume over time. The analysis highlights the consistent performance of SPY both yearly and quarterly, with Q4 often standing out as a strong performer—an observation that can guide portfolio allocation strategies. Additionally, the fairly predictable quarterly patterns and the clustering of years with outstanding performance above 20% suggest periods of market optimism tend to persist, offering valuable insights for long-term investment planning. 
 
 ### Practical Application: 
+1) Use Q3 as a potential buying opportunity since Q4 has often been the best-performing Quarter. 
 
 ### Data Source:
 - **yFinance:** S&P 500 (Ticker: SPY) data was fetched with Yahoo finance API. Only basic historical price (Open Price, High Price, Low Price, Close Price) and Volume information were retrieved with a start date of 1995-01-01. 
@@ -84,6 +85,6 @@ The chart provides insights into how quarterly performance trends have varied ac
 ![](Images/StdDev_Perf_Correlation.PNG)
 ### Conclusion  & Next Steps:
 - Interestingly, while volatility amplifies price movements in both directions, there appears to be no direct correlation between annual performance and standard deviation. This reinforces the unpredictable nature of markets, where volatility reflects both opportunity and risk.
-- Next Step and future research should consider assessing the impact of market sectors on quarter and yearly performance. 
+- The next step and future research should consider assessing the impact of market sectors on quarter and yearly performance. 
 ![](Images/VolatilityMeme1.jpg)
 ![](Images/VolatilityMeme2.jpg)
