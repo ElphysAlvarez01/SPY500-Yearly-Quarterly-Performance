@@ -1,3 +1,4 @@
+![](Images/ReportBanner.png)
 # S&P500- A Yearly & Quarterly Performance Analysis
 ### Quick Description / Summary: 
 This project analyzes the yearly and quarterly performance of the SPY 500, providing insights into price trends, volatility, and key market behaviors. By leveraging visualizations and statistical analysis, it explores the relationship between metrics such as annual standard deviation, performance, and trading volume over time. The analysis highlights the consistent performance of SPY both yearly and quarterly, with Q4 often standing out as a strong performer—an observation that can guide portfolio allocation strategies. Additionally, the fairly predictable quarterly patterns and the clustering of years with outstanding performance above 20% suggest periods of market optimism tend to persist, offering valuable insights for long-term investment planning. 
