@@ -76,7 +76,8 @@ The chart provides insights into how quarterly performance trends have varied ac
 #### **Section 4: *Yearly Performance & Annual Std Dev Correlation*:**
 ![](Images/AnnualStdDev_PriceTrend.png)
 - The "End Price and Annual Std Dev Over Time" chart shows the interplay between the end-of-year price for SPY and its annual volatility, represented by the standard deviation (Std Dev). Volatility reflects the degree of price deviation from the mean, and its behavior provides key insights into market dynamics. During periods of significant price declines, such as 2000-2002 and 2008-2009, volatility spiked sharply, indicating heightened uncertainty and larger price swings.
-- Conversely, in recent years, particularly from 2018 to 2022, both SPY's end price and volatility have increased significantly. This suggests that even in bull markets, price fluctuations have become larger. 
+- Conversely, in recent years, particularly from 2018 to 2022, both SPY's end price and volatility have increased significantly. This suggests that even in bull markets, price fluctuations have become larger.
+  
 **Does Volatility Influence Performance?"**
 - As a reminder, Standard Deviation (Volatility) measures the degree of price fluctuation, reflecting movements both to the upside and downside.
 -  While volatility is a crucial metric of market activity, no clear correlation was observed between annual performance and volatility across the years. This lack of correlation may stem from volatility's influence on price movements in both directions, amplifying gains and losses alike.
