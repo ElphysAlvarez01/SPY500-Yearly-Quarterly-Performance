@@ -64,8 +64,9 @@ The chart provides insights into how quarterly performance trends have varied ac
 #### **Section 2: *Unexpected Volume Insights*:**
 ![](Images/PriceTrend_Volume_OverYRS.png)
 **Where did the Volume go?"**
-3. **An unexpected finding was regarding the Volume Overtime.** When the Volume was plotted, I went back to the retrieved data because I thought there was an error. It was interesting to see that the year with the highest volume was 2008 and Volume has not recovered to that level since then. I do not know how to explain this and would love to take a further look in the future. 
-    a. My assumption of a potential reason why I think 2008 was the year with the highest volume in addition to the following years (e.g. 2009,2010,2011) is fear. Perhaps the amount of fear investors had during that time made me sell at peak levels. On the other hand, as more people have since observed the market's resilience and eventual recovery over time, the collective fear has not reached the same intensity as it did during the 2008 financial crisis.
+
+**An unexpected finding was regarding the Volume Overtime.** 
+- When the Volume was plotted, I went back to the retrieved data because I thought there was an error. It was interesting to see that the year with the highest volume was 2008 and Volume has not recovered to that level since then. I do not know how to explain this and would love to take a further look in the future. My assumption of a potential reason why I think 2008 was the year with the highest volume in addition to the following years (e.g. 2009,2010,2011) is fear. Perhaps the amount of fear investors had during that time made me sell at peak levels. On the other hand, as more people have since observed the market's resilience and eventual recovery over time, the collective fear has not reached the same intensity as it did during the 2008 financial crisis.
   
 #### **Section 3: *Highlighting Extraordinary Yearly Performance*:**
 
