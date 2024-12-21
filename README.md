@@ -86,3 +86,5 @@ The chart provides insights into how quarterly performance trends have varied ac
 ### Conclusion:
 
 ### Next Steps:
+![](Images/VolatilityMeme1.jpg)
+![](Images/VolatilityMeme2.jpg)
