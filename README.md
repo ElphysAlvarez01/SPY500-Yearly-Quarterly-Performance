@@ -1,10 +1,10 @@
 ![](Images/ReportBanner.png)
 # S&P500- A Yearly & Quarterly Performance Analysis
 ### Quick Description / Summary: 
-This project analyzes the yearly and quarterly performance of the SPY 500, providing insights into price trends, volatility, and key market behaviors. By leveraging visualizations and statistical analysis, it explores the relationship between metrics such as annual standard deviation, performance, and trading volume over time. The analysis highlights the consistent performance of SPY both yearly and quarterly, with Q4 often standing out as a strong performer—an observation that can guide portfolio allocation strategies. Additionally, the fairly predictable quarterly patterns and the clustering of years with outstanding performance above 20% suggest periods of market optimism tend to persist, offering valuable insights for long-term investment planning. 
+This project analyzes the yearly and quarterly performance of the SPY 500, providing insights into price trends, volatility, and key market behaviors. By leveraging visualizations and statistical analysis, it explores the relationship between annual standard deviation, performance, and trading volume over time. The analysis highlights the consistent performance of SPY both yearly and quarterly, with Q4 often standing out as a strong performer—an observation that can guide portfolio allocation strategies. Additionally, the fairly predictable quarterly patterns and the clustering of years with outstanding performance above 20% suggest periods of market optimism tend to persist, offering valuable insights for long-term investment planning. 
 
-### Practical Application: 
-1) Use Q3 as a potential buying opportunity since Q4 has often been the best-performing Quarter. 
+### Potential Practical Application: 
+1) I believe Q3 can be used as a potential buying opportunity since Q4 is often the best-performing Quarter. [I am not a financial advisor.]
 
 ### Data Source:
 - **yFinance:** S&P 500 (Ticker: SPY) data was fetched with Yahoo finance API. Only basic historical price (Open Price, High Price, Low Price, Close Price) and Volume information were retrieved with a start date of 1995-01-01. 
@@ -40,7 +40,7 @@ The table below summarizes the transformation of the original dataset to include
 
 ![](Images/Ave.Performance5YRIntervals.png)
 
-#### **'Average Quarterly Performance by 5-Year Intervals' Chart:**
+#### **' Average Quarterly Performance by 5-Year Intervals' Chart:**
 The chart provides insights into how quarterly performance trends have varied across distinct 5-year intervals:
 
 **1995–1999: Q1: 6.88%, Q2: 7.54%, Q3: -0.36%, Q4: 11.12% -** 
